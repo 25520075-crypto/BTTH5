@@ -1,0 +1,14 @@
+1 1 1
+
+Nguyen Van A
+10
+1000
+
+Tran Thi B
+20
+2000
+5
+
+Le Van C
+30
+3000
